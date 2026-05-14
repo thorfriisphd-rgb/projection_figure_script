@@ -96,7 +96,7 @@ Rather than searching for rigid sequence motifs, the approach aims to recover co
 - *Ciona intestinalis*
 - *Octopus vulgaris*
 - *Mus musculus*
- -*Homo sapiens*
+-*Homo sapiens*
 
 ---
 ## License
