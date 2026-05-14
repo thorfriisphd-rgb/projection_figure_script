@@ -89,14 +89,14 @@ Rather than searching for rigid sequence motifs, the approach aims to recover co
  - Vertebrata
 #### including taxa such as:
 
-*Hahella chejuensis*
-*Naegleria gruberi*
-*Willaertia magna*
-*Branchiostoma floridae*
-*Ciona intestinalis*
-*Octopus vulgaris*
-*Mus musculus*
-*Homo sapiens*
+- *Hahella chejuensis*
+- *Naegleria gruberi*
+- *Willaertia magna*
+- *Branchiostoma floridae*
+- *Ciona intestinalis*
+- *Octopus vulgaris*
+- *Mus musculus*
+ -*Homo sapiens*
 
 ---
 ## License
