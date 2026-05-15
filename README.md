@@ -75,7 +75,7 @@ The underlying IBAM workflow integrates:
 -  dual-constraint filtering based on phylogenetic occupancy and biochemical coherence
 -  visualisation of conserved interaction grammar across divergent taxa
 
-Rather than searching for rigid sequence motifs, the approach aims to recover conserved biochemical roles maintained across deeply divergent evolutionary contexts.
+Rather than searching for rigid sequence motifs, the approach aims to recover conserved biochemical roles maintained across deeply divergent evolutionary space.
 
 ---
 ## Taxonomic coverage
