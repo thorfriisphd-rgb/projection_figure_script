@@ -1,4 +1,4 @@
-# IBAM Projection Figure Renderer
+# VISTA — Visualisation of Interaction-Space Taxon Architecture
 
 Standalone rendering pipeline for generating evolutionary projection figures for the manuscript:
 
